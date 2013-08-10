@@ -2,6 +2,6 @@ AristotleIO
 ===========
 
 <div style="text-align:center">
-  <img src="logo/aristotle_logo_195x234.svg" width="195" height="234"/>
+  <img src="/aristotleio/aristotle.io/blob/master/logo/aristotle_logo_200x240.png?raw=true" width="200" height="240"/>
 </div>
 
